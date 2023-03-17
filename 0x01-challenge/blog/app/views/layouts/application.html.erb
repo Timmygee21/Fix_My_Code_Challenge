@@ -36,6 +36,7 @@
         <% else %>
           <%= link_to "Back to All Posts", root_path %>
         <% end %>
+        
         <% if user_signed_in? %>
         <div class="buttons">
           <button class="button"><%= link_to "New Post", new_post_path %></button>
@@ -48,6 +49,7 @@
       <% flash.each do |name, msg| %>
         <%= content_tag(:div, msg, class: "alert") %>
       <% end %>
+      
       <%= yield %>
 
     </div>
