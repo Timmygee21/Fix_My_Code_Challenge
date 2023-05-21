@@ -1,5 +1,4 @@
-# Fix_My_Code_Challenge
-<<<<<<< HEAD
+# Fix_My_Code_Challenge  
  we’ll jump into an existing code base and fix it!
 =======
 
@@ -19,4 +18,4 @@ Timothy Oloruntola
 # Acknowledgements 🙏
 
 All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this website for further information.
->>>>>>> 3c90b95ad8eb45ad5636c4bb494c4fbbabe3ab10
+
